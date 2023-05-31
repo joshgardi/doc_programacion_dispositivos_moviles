@@ -1,7 +1,6 @@
 # Documentación de Programación para Dispositivos Móviles
 
-Este repositorio contiene información sobre diferentes frameworks para el desarrollo de aplicaciones móviles,
-A continuación, les presento las secciones correspondientes a cada framework popular:
+Este repositorio contiene información sobre diferentes frameworks para el desarrollo de aplicaciones móviles. A continuación, se presentan las secciones correspondientes a cada framework popular:
 
 ## Flutter
 
@@ -12,6 +11,7 @@ A continuación, les presento las secciones correspondientes a cada framework po
 - **Creador**: Google
 - **Empresa encargada de mantenimiento**: Google
 - **Fecha de creación**: Mayo de 2017
+- **Comparación con otras tecnologías**: Flutter se destaca por su rendimiento y su enfoque en la creación de interfaces de usuario altamente personalizables. A diferencia de otros frameworks, Flutter utiliza su propio motor de renderizado, lo que permite obtener resultados visuales de alta calidad.
 
 ## Xamarin
 
@@ -22,6 +22,7 @@ A continuación, les presento las secciones correspondientes a cada framework po
 - **Creador**: Microsoft
 - **Empresa encargada de mantenimiento**: Microsoft
 - **Fecha de creación**: Mayo de 2011
+- **Comparación con otras tecnologías**: Xamarin permite compartir un alto porcentaje de código entre las diferentes plataformas móviles, lo que facilita el desarrollo multiplataforma. Además, al utilizar el lenguaje C#, los desarrolladores pueden aprovechar el ecosistema de herramientas y bibliotecas de .NET.
 
 ## React Native
 
@@ -32,6 +33,7 @@ A continuación, les presento las secciones correspondientes a cada framework po
 - **Creador**: Facebook
 - **Empresa encargada de mantenimiento**: Facebook
 - **Fecha de creación**: Marzo de 2015
+- **Comparación con otras tecnologías**: React Native combina las ventajas del desarrollo web con la capacidad de crear aplicaciones móviles nativas. Al utilizar React y JavaScript, los desarrolladores pueden crear interfaces de usuario rápidas y reactivas, aunque en algunos casos pueden surgir limitaciones de rendimiento en comparación con el desarrollo nativo.
 
 ## Ionic
 
@@ -42,6 +44,7 @@ A continuación, les presento las secciones correspondientes a cada framework po
 - **Creador**: Max Lynch, Ben Sperry, y Adam Bradley
 - **Empresa encargada de mantenimiento**: Ionic Team
 - **Fecha de creación**: Noviembre de 2013
+- **Comparación con otras tecnologías**: Ionic es una opción popular para el desarrollo de aplicaciones móviles híbridas. Al utilizar tecnologías web estándar, los desarrolladores pueden aprovechar su conocimiento existente y desarrollar aplicaciones para múltiples plataformas. Sin embargo, debido a su naturaleza híbrida, es posible que las aplicaciones Ionic no ofrezcan el mismo rendimiento y experiencia de usuario que las aplicaciones nativas.
 
 ## Swiftic
 
@@ -51,4 +54,5 @@ A continuación, les presento las secciones correspondientes a cada framework po
 - **Repositorios de ejemplos**: No aplica
 - **Creador**: Abhinav Girdhar
 - **Empresa encargada de mantenimiento**: Swiftic Inc.
-- **Fecha de creación**: 201
+- **Fecha de creación**: 2010
+- **Comparación con otras tecnologías**: Swiftic es una solución para aquellos que desean desarrollar aplicaciones móviles sin tener experiencia en programación. Aunque ofrece una interfaz intuitiva para crear aplicaciones, puede tener limitaciones en términos de personalización y escalabilidad en comparación con los frameworks de desarrollo de aplicaciones móviles nativas.
